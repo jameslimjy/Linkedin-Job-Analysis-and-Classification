@@ -8,4 +8,4 @@ This is a personal project that incorporates the following elements:
 - Classification
     - Naive Bayes classifier
     - Logistic Regression classifier
-    - Deep Learning: Keras LSTM classifier
+    - Keras (LSTM) classifier
