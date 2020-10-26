@@ -9,3 +9,5 @@ This is a personal project that incorporates the following elements:
     - Naive Bayes classifier
     - Logistic Regression classifier
     - Keras (LSTM) classifier
+
+There are 2 main ipynb files, EDA and 
